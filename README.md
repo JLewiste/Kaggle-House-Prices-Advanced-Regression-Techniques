@@ -1,4 +1,4 @@
-# Kaggle-House-Prices-Advanced-Regression-Techniques
+# Kaggle: House prices advanced regression techniques
 
 ![Pictures](Pictures/house_pricing.png)
 
